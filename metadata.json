@@ -1,0 +1,6 @@
+{
+  "name": "Smart Coffee Simulator",
+  "description": "Interactive smart coffee maker simulator featuring natural language voice command evaluation, glowing hardware status indicators, and a dynamic logic state flowchart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
